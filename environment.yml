@@ -1,0 +1,12 @@
+name: C:\Users\Kyle Jack\Desktop\C964_Capstone\env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - seaborn
+  - ipywidgets
+prefix: C:\Users\Kyle Jack\Desktop\C964_Capstone\env
